@@ -1,1 +1,0 @@
-# gatsby-prefetch-issue-repro
